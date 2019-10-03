@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Turret+Road:400,500,700&display=swap');
+
+body{
+  font-family: 'Turret Road', cursive;
+  overflow-x: hidden;
+}
+
+.quadro{
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-left: 5%;
+  margin-right: 5%;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0px 20px 0px 20px;
+  padding: 3%;
+  box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.2), 0px 6px 20px 0px rgba(0, 0, 0, 0.19);
+}
+
